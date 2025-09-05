@@ -1,0 +1,43 @@
+
+.resultado-card {
+  width: 100%;
+  max-width: 380px;
+  background-color: #022d30;
+  padding: 10px 20px;
+  border-radius: 12px;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+
+.resultado-card h2 {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #ffffff; 
+  margin: 0 0 25px 0;
+  font-weight: 500;
+}
+
+.imcspan {
+  font-weight: 800;
+  color: #fafafa;
+  font-size: 1.7rem; 
+  padding: 1px 5px;
+  border-radius: 8px;
+}
+
+.tabela {
+  width: 100%;
+  font-size: 0.9rem;
+}
+
+.tabelaHeader th {
+  text-align: center;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.tableBody td {
+  text-align: center;
+  border-bottom: 1px solid #e2e8f0; 
+  color: #ffffff;
+}
